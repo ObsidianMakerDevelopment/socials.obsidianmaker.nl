@@ -4,4 +4,4 @@ echo "Content-Type: text/plain"
 echo 
 
 cd /opt/socials.obsidianmaker.nl/;
-git pull #>/dev/null 2>&1
+git pull 2>&1 #>/dev/null
