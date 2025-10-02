@@ -4,4 +4,5 @@ echo "Content-Type: text/plain"
 echo 
 
 cd /opt/socials.obsidianmaker.nl/;
+git config --global --add safe.directory /opt/socials.obsidianmaker.nl 2>&1 >/dev/null
 git pull 2>&1 #>/dev/null
