@@ -1,1 +1,1 @@
-ssh moyskleytech.cloud "cd /opt/socials.obsidianmaker.nl/;git pull"
+ssh moyskleytech.cloud "cd /opt/socials.obsidianmaker.nl/;git checkout .;git pull"
